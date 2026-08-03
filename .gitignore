@@ -1,0 +1,6 @@
+# Local / sensitive files · 本地与敏感文件（两层排除之一：git）
+.codebuddy/
+node_modules/
+*.vsix
+scripts/debug/
+.DS_Store

@@ -1,0 +1,6 @@
+# Marketplace package exclusions · 商店包排除（两层排除之二：vsce）
+.codebuddy/**
+scripts/debug/**
+**/*.map
+.DS_Store
+**/*.vsix

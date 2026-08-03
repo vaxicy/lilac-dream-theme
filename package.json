@@ -1,0 +1,35 @@
+{
+  "name": "lilac-dream-theme",
+  "displayName": "Lilac Dream Theme",
+  "description": "A soft lilac pastel light theme for VS Code. 淡紫梦幻浅色主题。",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "lilac",
+    "pastel",
+    "light",
+    "purple"
+  ],
+  "icon": "store-assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/lilac-dream-theme"
+  },
+  "license": "SEE LICENSE.md",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lilac Dream",
+        "uiTheme": "vs",
+        "path": "./themes/lilac-dream-color-theme.json"
+      }
+    ]
+  }
+}
