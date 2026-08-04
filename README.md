@@ -1,4 +1,14 @@
-# Lilac Dream Theme
+<p align="center">
+  <img src="store-assets/icon.png" width="128" alt="Lilac Dream Theme logo">
+</p>
+
+<h1 align="center">Lilac Dream Theme</h1>
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=lilinhuang.lilac-dream-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/lilinhuang.lilac-dream-theme?label=VS%20Code%20Marketplace" alt="VS Code Marketplace">
+  </a>
+</p>
 
 一款以淡紫色为主调的柔和 VS Code 主题家族，包含五档明度变体：从最轻盈的晨薰（Dawn）到深邃的夜薰（Night）。
 
