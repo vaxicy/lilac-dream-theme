@@ -1,55 +1,63 @@
 # Lilac Dream Theme
 
-> A soft lilac pastel light theme for Visual Studio Code.
-> 一款柔和淡紫梦幻风格的 VS Code 浅色主题。
+一款以淡紫色为主调的柔和 VS Code 主题家族，包含五档明度变体：从最轻盈的晨薰（Dawn）到深邃的夜薰（Night）。
 
-## Preview · 预览
+A soft purple-toned VS Code theme family with five brightness variants, from the airy **Dawn** to the deep **Night**.
 
-![Lilac Dream Theme](store-assets/promo/440x280.png)
+## 主题变体 / Theme Variants
 
-## Palette · 色板
+| 中文名 | 英文名 | 风格 |
+|--------|--------|------|
+| 晨薰 | Dawn | 最浅最轻盈 / Lightest & airy |
+| 梦薰 | Dream | 基准浅色 / Base light |
+| 盛薰 | Bloom | 中等饱和浅色 / Saturated light |
+| 暮薰 | Dusk | 最深浅色 / Deepest light |
+| 夜薰 | Night | 深色模式 / Dark mode |
 
-| Role 用途        | Color 颜色 |
-| ---------------- | ---------- |
-| Background 背景  | `#F1F1F6` |
-| Side Bar 侧边栏  | `#F8F8FC` |
-| Accent 强调      | `#BE9FE1` |
-| Hover 悬停       | `#C9B6E4` |
-| Selection 选区  | `#E1CCEC` |
-| Foreground 正文  | `#2E2A36` |
-| Comment 注释     | `#9B8CA7` |
+## 预览 / Preview
 
-## Install · 安装
+![Lilac Dream Theme Preview](store-assets/screenshots/zh/preview-1.png)
 
-### From Marketplace · 从插件市场安装
+## 安装 / Installation
 
-1. Open the Extensions view (`Ctrl+Shift+X`).
-2. Search for **Lilac Dream Theme**.
-3. Click **Install**, then select **Lilac Dream** from `File > Preferences > Color Theme`.
+1. 在 VS Code 扩展市场搜索 **"Lilac Dream Theme"**。
+2. 点击安装。
+3. 打开命令面板（`Ctrl+Shift+P` / `Cmd+Shift+P`），输入 **"Color Theme"**，选择你喜欢的 Lilac 变体。
 
-### From VSIX · 从本地包安装
+Or install from the [VS Code Marketplace](https://marketplace.visualstudio.com/).
 
-1. Download `lilac-dream-theme-1.0.0.vsix`.
-2. Run `code --install-extension lilac-dream-theme-1.0.0.vsix`.
-3. Select the theme as above.
+## 特性 / Features
 
-## Features · 特性
+- 五款明度梯度，覆盖浅色到深色需求
+- 统一淡紫骨架，视觉一致柔和
+- 完整界面配色（编辑器、侧边栏、状态栏、终端、diff 等）
+- 为中文界面优化的舒适对比度
+- 配套终端 ANSI 调色板
 
-- Soft lilac pastel palette with high readability.
-- Full UI token coverage: activity bar, side bar, status bar, tabs, lists, inputs, scrollbars, diff, terminal.
-- Carefully tuned syntax colors for comments, strings, keywords, functions, numbers and operators.
-- Designed for light environments, easy on the eyes for long coding sessions.
-- 完整的界面配色覆盖，语法高亮柔和清晰，适合长时间浅色环境编码。
+- Five brightness levels from light to dark
+- Unified lilac chrome for visual consistency
+- Full UI token coverage (editor, sidebar, status bar, terminal, diff, etc.)
+- Comfortable contrast tuned for daily coding
+- Matching terminal ANSI palette
 
-## Recommended Settings · 推荐设置
+## 推荐搭配 / Recommended Settings
 
 ```json
 {
-  "workbench.colorTheme": "Lilac Dream"
+  "editor.fontSize": 14,
+  "editor.lineHeight": 26,
+  "workbench.tree.indent": 16
 }
 ```
 
-## License · 许可证
+## 许可 / License
 
-Non-Commercial License. See [LICENSE.md](LICENSE.md) for details.
-非商业使用许可证，详见 LICENSE.md。
+[Non-Commercial License](LICENSE.md)
+
+免费用于个人学习、研究与非商业项目；商业用途请联系作者获取授权。
+
+Free for personal learning, research, and non-commercial projects. Commercial use requires permission.
+
+## 致谢 / Credits
+
+Designed with 💜 by Li Lin Huang.

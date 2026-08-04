@@ -26,9 +26,29 @@
   "contributes": {
     "themes": [
       {
+        "label": "Lilac Dawn",
+        "uiTheme": "vs",
+        "path": "./themes/lilac-dawn-color-theme.json"
+      },
+      {
         "label": "Lilac Dream",
         "uiTheme": "vs",
         "path": "./themes/lilac-dream-color-theme.json"
+      },
+      {
+        "label": "Lilac Bloom",
+        "uiTheme": "vs",
+        "path": "./themes/lilac-bloom-color-theme.json"
+      },
+      {
+        "label": "Lilac Dusk",
+        "uiTheme": "vs",
+        "path": "./themes/lilac-dusk-color-theme.json"
+      },
+      {
+        "label": "Lilac Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lilac-night-color-theme.json"
       }
     ]
   }
