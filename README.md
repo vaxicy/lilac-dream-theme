@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=lilinhuang.lilac-dream-theme">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/lilinhuang.lilac-dream-theme?label=VS%20Code%20Marketplace" alt="VS Code Marketplace">
+    <img src="https://img.shields.io/badge/VS%20Code-Theme-BE9FE1?logo=visual-studio-code" alt="VS Code Theme">
   </a>
 </p>
 
