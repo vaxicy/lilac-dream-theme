@@ -1,0 +1,14 @@
+{
+  "name": "Moss Lantern",
+  "surfaces": {
+    "canvas": "#F0EEFC",
+    "sidebar": "#E4E2EF",
+    "panel": "#DAD9E5"
+  },
+  "accents": {
+    "sage": "#8C974E",
+    "teal": "#60959B",
+    "rose": "#AC6C88",
+    "amber": "#896525"
+  }
+}

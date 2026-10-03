@@ -1,0 +1,19 @@
+:root {
+  --canvas: #f0eefc;
+  --sidebar: #e4e2ef;
+  --ink: #26252d;
+  --accent: #6c6c6c;
+}
+
+body {
+  margin: 0;
+  background: var(--canvas);
+  color: var(--ink);
+  font: 14px/1.6 "Segoe UI", system-ui, sans-serif;
+}
+
+.card {
+  border: 1px solid var(--sidebar);
+  border-radius: 10px;
+  padding: 16px 20px;
+}
