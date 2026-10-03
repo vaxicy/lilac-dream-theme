@@ -2,7 +2,7 @@
   "name": "lilac-dream-theme",
   "displayName": "Lilac Dream Theme",
   "description": "A muted lilac-inspired light theme for VS Code. 以淡紫丁香为灵感的柔和浅色主题。",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "lilinhuang",
   "engines": {
     "vscode": "^1.80.0"

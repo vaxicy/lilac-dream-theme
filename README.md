@@ -24,9 +24,47 @@ A soft purple-toned VS Code theme family with five brightness variants, from the
 | 暮薰 | Dusk | 最深浅色 / Deepest light |
 | 夜薰 | Night | 深色模式 / Dark mode |
 
-## 预览 / Preview
+## 变体预览 / Variant Previews
 
-![Lilac Dream Theme Preview](store-assets/screenshots/zh/preview-1.png)
+### Lilac Dawn · 晨薰
+
+最轻盈的浅色，近白底配极淡紫晕，适合白天强光环境。
+
+The lightest variant — near-white surfaces with a faint lilac glow.
+
+![Lilac Dawn preview](store-assets/screenshots/variants/preview-dawn.png)
+
+### Lilac Dream · 梦薰
+
+基准浅色，淡紫骨架最均衡，日常编码的默认推荐。
+
+The base light theme with a balanced lilac chrome — the default pick.
+
+![Lilac Dream preview](store-assets/screenshots/variants/preview-dream.png)
+
+### Lilac Bloom · 盛薰
+
+中等饱和浅色，紫意更明显，界面层次更分明。
+
+Medium-saturation light theme where the lilac reads more clearly.
+
+![Lilac Bloom preview](store-assets/screenshots/variants/preview-bloom.png)
+
+### Lilac Dusk · 暮薰
+
+最深的浅色，暮色渐浓，长时间夜读护眼柔和。
+
+The deepest light variant — lilac at dusk, gentle for long sessions.
+
+![Lilac Dusk preview](store-assets/screenshots/variants/preview-dusk.png)
+
+### Lilac Night · 夜薰
+
+深色模式，深紫夜幕配高对比代码配色。
+
+Dark mode — a deep lilac night with bright, readable code colors.
+
+![Lilac Night preview](store-assets/screenshots/variants/preview-night.png)
 
 ## 安装 / Installation
 
